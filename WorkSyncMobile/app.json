@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "WorkSyncMobile",
+    "slug": "WorkSyncMobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "worksyncmobile",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static"
+    },
+    "plugins": [],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
